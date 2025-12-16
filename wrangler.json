@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ea6e7ec1-4a8a-47ed-8c3f-52dfee8a80e0",
+			"database_name": "cn-oauth-seller-cnx"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
